@@ -80,7 +80,6 @@ This format keeps the responses concise and impactful without using the word "an
 
 *Lower satisfaction among Sales Executives, requiring targeted intervention.
 
-*High attrition rates in Life Sciences and Medical fields.
 ---
 # Dashboard-Preview
 - <a href="https://github.com/KRANTHI1854/Employee-Attrition-Analysis/blob/main/Screenshot%202025-022%20154516.png">Repository</a> 
