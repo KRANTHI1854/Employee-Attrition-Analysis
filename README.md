@@ -78,7 +78,7 @@ Unveiled insights into employee turnover with a dynamic Power BI dashboard power
 
 ---
 # Dashboard-Preview
-- <a href="https://github.com/KRANTHI1854/Employee-Attrition-Analysis/blob/main/Screenshot%202025-06-23%20144400.png">Repository</a>
+
 ![Dashboard Preview](https://github.com/KRANTHI1854/Employee-Attrition-Analysis/blob/main/Screenshot%202025-06-23%20144400.png)
 
 
