@@ -74,11 +74,11 @@ This format keeps the responses concise and impactful without using the word "an
 
 ---
 ## Outcome
-*The analysis identified key areas of concern:
+* The analysis identified key areas of concern:
 
-*High attrition in the HR Department and among employees in the 25-34 age group.
+* High attrition in the HR Department and among employees in the 25-34 age group.
 
-*Lower satisfaction among Sales Executives, requiring targeted intervention.
+* Lower satisfaction among Sales Executives, requiring targeted intervention.
 
 ---
 # Dashboard-Preview
