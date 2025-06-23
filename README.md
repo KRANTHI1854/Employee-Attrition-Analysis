@@ -69,10 +69,6 @@ Unveiled insights into employee turnover with a dynamic Power BI dashboard power
 * Address concerns in high-attrition education fields like **Life Sciences** and **Medical**.
 
 ---
-
-This format keeps the responses concise and impactful without using the word "answers." Would you like to add more sections or further adjustments?
-
----
 ## Outcome
 * The analysis identified key areas of concern:
 
